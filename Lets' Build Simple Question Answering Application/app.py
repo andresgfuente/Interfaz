@@ -13,7 +13,7 @@ import json
 import botocore.config
 #When deployed on huggingface spaces, this values has to be passed using Variables & Secrets setting, as shown in the video :)
 #import os
-#os.environ["OPENAI_API_KEY"] = "sk-werwerwerrtertertwkFJwtwetwteWSig4ZY9AT"
+#os.environ["OPENAI_API_KEY"] = ""
 
 #Function to return the response
 
